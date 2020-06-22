@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "SQL to Azure",
+				"name": "SQL to Azure SA",
 				"description": "training",
 				"type": "Copy",
 				"dependsOn": [],
